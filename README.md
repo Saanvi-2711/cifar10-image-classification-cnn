@@ -4,8 +4,8 @@ A Convolutional Neural Network built with PyTorch to classify
 60,000 RGB images across 10 real-world categories.
 
 ## Results
-- Test Accuracy: 76.15%
-- Validation Loss: 0.967
+- Test Accuracy: 76.73%
+- Validation Loss: 0.917
 
 ## Dataset
 CIFAR10 — 60,000 images (32x32 RGB), 10 classes, ~170 MB
